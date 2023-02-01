@@ -14,9 +14,7 @@
 
 # Skills
 
-[![My Skills](https://skillicons.dev/icons?i=linux,gcp,firebase,github,eclipse,idea,vscode,
-bash,docker,gradle,nginx,git,js,ts,react,nextjs,vue,redux,alpinejs,css,tailwind,webpac,mdk,
-java,kotlin,php,nodejs,py,spring,jest,ktor,laravel,wordpress,mysql,postgres,hibernate,graphql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,gcp,firebase,github,eclipse,idea,vscode,bash,docker,gradle,nginx,git,js,ts,react,nextjs,vue,redux,alpinejs,css,tailwind,webpac,mdk,java,kotlin,php,nodejs,py,spring,jest,ktor,laravel,wordpress,mysql,postgres,hibernate,graphql)](https://skillicons.dev)
 
 
 
