@@ -18,7 +18,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=eclipse,idea,vscode&perline=3)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=bash,docker,gradle,nginx,git&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,docker,gradle,nginx,git&perline=5)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,redux,alpinejs,css,tailwind,webpac,mdk&perline=11)](https://skillicons.dev)
 
