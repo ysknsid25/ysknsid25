@@ -14,17 +14,17 @@
 
 # Skills
 
-[![My Skills](https://skillicons.dev/icons?i=linux,gcp,firebase,git,github&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,gcp,firebase,github&perline=4)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=eclipse,idea,vscode&perline=3)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=bash,docker,gradle,nginx,git&perline=4)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,redux,alpinejs,css,tailwind,webpac,mdk&perline=11)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,php,nodejs,py&perline=5)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=spring,jest,ktor,laravel,wordpress&perline=5)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=bash,docker,gradle,nginx&perline=4)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,hibernate,graphql&perline=4)](https://skillicons.dev)
 
