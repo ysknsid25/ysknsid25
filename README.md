@@ -17,6 +17,9 @@
 
 <h3>I'm owner of this Community:</h3>
 
-[![blessing software](https://user-images.githubusercontent.com/44870505/216491740-ffc0c458-3a6d-4004-a3db-524b9160a811.png)](https://blessingsoftware.connpass.com/)
+Cover Image Girl illustrated By Microsoft Bing Image Creator.
+
+[![blessing software](https://user-images.githubusercontent.com/44870505/228825793-7e547f88-28f7-4922-b005-786bab450e2d.png)
+](https://blessingsoftware.connpass.com/)
 
 
