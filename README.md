@@ -20,7 +20,7 @@
 Cover Image Girl illustrated By Microsoft Bing Image Creator.
 
 [![blessing software](https://user-images.githubusercontent.com/44870505/229256886-e659557f-febc-426c-8c6d-2261a360eb0b.png)
-](https://blessingsoftware.connpass.com/)
+](https://blessingsoftwarekobe.doorkeeper.jp/)
 
 
 
