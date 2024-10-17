@@ -4,11 +4,14 @@
     <a href="https://twitter.com/ysknsid25" target="blank"><img src="https://img.shields.io/twitter/follow/ysknsid25?logo=twitter&style=for-the-badge" alt="ysknsid25" /></a> 
   </p>
 
-  [![My Skills](https://skillicons.dev/icons?i=gcp,firebase,linux,git,github,githubactions,kotlin,ktor,java,spring,nodejs,js,ts,vite,vitest,nestjs,react,nextjs,php,laravel&perline=6&theme=light)](https://skillicons.dev)
-
   <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ysknsid25&show_icons=true&locale=en&layout=compact" alt="ysknsid25" />
   </p>
+
+<h3>My Skills</h3>
+
+  [![My Skills](https://skillicons.dev/icons?i=gcp,firebase,linux,git,github,githubactions,kotlin,ktor,java,spring,nodejs,js,ts,vite,vitest,nestjs,react,nextjs,php,laravel&perline=6&theme=light)](https://skillicons.dev)
+
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=ysknsid25&show_icons=true&locale=en" alt="ysknsid25" />
   </p>
