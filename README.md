@@ -21,10 +21,6 @@
   <p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ysknsid25&" alt="ysknsid25" />
   </p>
-  <h3>I'm owner of this Community:</h3>
-  
-  [![image](https://github.com/user-attachments/assets/0c3cf4c6-6c2a-489e-8b42-a1f9bd86fe79)](https://kobets.connpass.com/)
-
 </div>
 
 
