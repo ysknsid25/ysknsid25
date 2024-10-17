@@ -10,7 +10,7 @@
 
 <h3>My Skills</h3>
 
-  [![My Skills](https://skillicons.dev/icons?i=gcp,firebase,linux,git,github,githubactions,kotlin,ktor,java,spring,nodejs,js,ts,vite,vitest,nestjs,react,nextjs,php,laravel&perline=6&theme=light)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=gcp,firebase,linux,git,github,githubactions,kotlin,ktor,ts,vite,vitest,nestjs,react,nextjs,php,laravel&perline=6&theme=light)](https://skillicons.dev)
 
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=ysknsid25&show_icons=true&locale=en" alt="ysknsid25" />
