@@ -1,6 +1,9 @@
 <div align="center">
   <h1 align="center">Hi 👋, I'm Kanon</h1>
   <p>
+    Icon image is <a href="https://x.com/tonikakuhayate/status/1806583319951233034?s=46&t=zwt7nxAvhST7_30NZnyMTQ">officially distributed</a>.
+  </p>
+  <p>
     <a href="https://twitter.com/ysknsid25" target="blank"><img src="https://img.shields.io/twitter/follow/ysknsid25?logo=twitter&style=for-the-badge" alt="ysknsid25" /></a> 
   </p>
 
