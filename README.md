@@ -9,13 +9,13 @@
     <a href="https://twitter.com/ysknsid25" target="blank"><img src="https://img.shields.io/twitter/follow/ysknsid25?logo=twitter&style=for-the-badge" alt="ysknsid25" /></a> 
   </p>
   <p>
-    <a href="https://inori-kurari.info">resume</a>
-  </p>
-  <p>
     <a href="https://zenn.dev/yskn_sid25"><img src="https://badgen.org/img/zenn/yskn_sid25/likes?style=plastic" alt="Likes" /></a>
     <a href="https://qiita.com/ysknsid25"><img src="https://badgen.org/img/qiita/ysknsid25/contributions?style=plastic" alt="Contributions" /></a>
     <a href="https://atcoder.jp/users/ysknsid25?contestType=algo"><img src="https://badgen.org/img/atcoder/ysknsid25/rating/algorithm?style=plastic" alt="Rating" /></a>
     <a href="https://bsky.app/profile/ysknsid25.bsky.social"><img src="https://badgen.org/img/bluesky/ysknsid25.bsky.social/followers?style=plastic" alt="Followers" /></a>
+  </p>
+  <p>
+    <a href="https://inori-kurari.info">resume</a>
   </p>
 
   <h3>🌱 My Skills</h3>
