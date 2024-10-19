@@ -6,7 +6,7 @@
 
   <h3>📱 Socials</h3>
   <p>
-    <a href="https://twitter.com/ysknsid25" target="blank"><img src="https://img.shields.io/twitter/follow/ysknsid25?logo=twitter&style=for-the-badge" alt="ysknsid25" /></a> 
+    <a href="https://twitter.com/ysknsid25" target="blank"><img src="https://img.shields.io/twitter/follow/ysknsid25?logo=x&style=for-the-badge" alt="ysknsid25" /></a> 
   </p>
   <p>
     <a href="https://zenn.dev/yskn_sid25"><img src="https://badgen.org/img/zenn/yskn_sid25/likes?style=plastic" alt="Likes" /></a>
