@@ -1,16 +1,39 @@
-## Hi there 👋
+<div align="center">
+  <h1 align="center">Hi 👋, I'm Kanon</h1>
+  <p>
+    Icon image is <a href="https://x.com/tonikakuhayate/status/1806583319951233034?s=46&t=zwt7nxAvhST7_30NZnyMTQ">officially distributed</a>.
+  </p>
 
-<!--
-**ysknsid25/ysknsid25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h3>📱 Socials</h3>
+  <p>
+    <a href="https://twitter.com/ysknsid25" target="blank"><img src="https://img.shields.io/twitter/follow/ysknsid25?logo=x&style=for-the-badge" alt="ysknsid25" /></a> 
+  </p>
+  <p>
+    <a href="https://zenn.dev/yskn_sid25"><img src="https://badgen.org/img/zenn/yskn_sid25/likes?style=plastic" alt="Likes" /></a>
+    <a href="https://qiita.com/ysknsid25"><img src="https://badgen.org/img/qiita/ysknsid25/contributions?style=plastic" alt="Contributions" /></a>
+    <a href="https://atcoder.jp/users/ysknsid25?contestType=algo"><img src="https://badgen.org/img/atcoder/ysknsid25/rating/algorithm?style=plastic" alt="Rating" /></a>
+    <a href="https://bsky.app/profile/ysknsid25.bsky.social"><img src="https://badgen.org/img/bluesky/ysknsid25.bsky.social/followers?style=plastic" alt="Followers" /></a>
+  </p>
+  <p>
+    <a href="https://inori-kurari.info">resume</a>
+  </p>
 
-Here are some ideas to get you started:
+  <h3>🌱 My Skills</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  [![My Skills](https://skillicons.dev/icons?i=gcp,firebase,linux,git,github,githubactions,kotlin,ktor,ts,vite,vitest,nestjs,react,nextjs,php,laravel&perline=6&theme=light)](https://skillicons.dev)
+
+  <h3>📈 Stats</h3>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ysknsid25&show_icons=true&locale=en&layout=compact" alt="ysknsid25" />
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=ysknsid25&show_icons=true&locale=en" alt="ysknsid25" />
+  </p>
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ysknsid25&" alt="ysknsid25" />
+  </p>
+</div>
+
+
+
+
