@@ -1,8 +1,5 @@
 <div align="center">
   <h1 align="center">Hi 👋, I'm Kanon</h1>
-  <p>
-    Icon image is <a href="https://x.com/tonikakuhayate/status/1806583319951233034?s=46&t=zwt7nxAvhST7_30NZnyMTQ">officially distributed</a>.
-  </p>
 
   <h3>📱 Socials</h3>
   <p>
