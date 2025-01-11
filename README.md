@@ -15,9 +15,9 @@
     <a href="https://inori-kurari.info">resume</a>
   </p>
 
-  <h3>🌱 My Skills</h3>
+  <h3>👀 Interesting</h3>
 
-  [![My Skills](https://skillicons.dev/icons?i=gcp,firebase,linux,git,github,githubactions,kotlin,ktor,ts,vite,vitest,nestjs,react,nextjs,php,laravel,python,rust&perline=6&theme=light)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=gcp,firebase,kotlin,js,ts,python,rust&perline=6&theme=light)](https://skillicons.dev)
 
   <h3>📈 Stats</h3>
   <p>
