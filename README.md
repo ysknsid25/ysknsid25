@@ -12,7 +12,7 @@
     <a href="https://bsky.app/profile/ysknsid25.bsky.social"><img src="https://badgen.org/img/bluesky/ysknsid25.bsky.social/followers?style=plastic" alt="Followers" /></a>
   </p>
   <p>
-    <a href="https://inori-kurari.info">resume</a>
+    <a href="https://resume.inorinrinrin.com">resume</a>
   </p>
 
   <h3>👀 Interesting</h3>
