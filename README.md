@@ -26,9 +26,6 @@
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=ysknsid25&show_icons=true&locale=en" alt="ysknsid25" />
   </p>
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ysknsid25" alt="ysknsid25" />
-  </p>
 </div>
 
 
