@@ -17,7 +17,7 @@
 
   <h3>👀 Interesting</h3>
 
-  [![My Skills](https://skillicons.dev/icons?i=gcp,firebase,kotlin,js,ts,python,rust&perline=6&theme=light)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=gcp,firebase,kotlin,js,ts,python&perline=6&theme=light)](https://skillicons.dev)
 
   <h3>📈 Stats</h3>
   <p>
@@ -27,7 +27,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=ysknsid25&show_icons=true&locale=en" alt="ysknsid25" />
   </p>
   <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ysknsid25&" alt="ysknsid25" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ysknsid25" alt="ysknsid25" />
   </p>
 </div>
 
