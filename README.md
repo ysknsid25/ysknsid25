@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">Hi 👋, I'm Kanon</h1>
+  <img src="https://typograssy.deno.dev/api?text=Hi!%20I%27m+Kanon" />
   <h3>📱 Socials</h3>
   <p>
     <a href="https://twitter.com/ysknsid25" target="blank"><img src="https://img.shields.io/twitter/follow/ysknsid25?logo=x&style=for-the-badge" alt="ysknsid25" /></a> 
