@@ -11,7 +11,7 @@
     <a href="https://bsky.app/profile/ysknsid25.bsky.social"><img src="https://badgen.org/img/bluesky/ysknsid25.bsky.social/followers?style=plastic" alt="Followers" /></a>
   </p>
   <p>
-    < a href="https://blog.hatena.ne.jp/ysknsid25/karanohako.hatenablog.jp/subscribe?from_url=https%3A%2F%2Fblog.inorinrinrin.com%2F&utm_source=hatena-follow-button-box&utm_medium=button&utm_campaign=subscribe_blog">subscribe my blog</a>
+    <a href="https://blog.hatena.ne.jp/ysknsid25/karanohako.hatenablog.jp/subscribe?from_url=https%3A%2F%2Fblog.inorinrinrin.com%2F&utm_source=hatena-follow-button-box&utm_medium=button&utm_campaign=subscribe_blog">subscribe my blog</a>
   </p>
 
   <h3>💖 Favorites</h3>
