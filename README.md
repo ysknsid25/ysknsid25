@@ -26,6 +26,10 @@
 
   [![My Skills](https://skillicons.dev/icons?i=gcp,firebase,githubactions,js,ts,npm,nextjs,nestjs,cypress,vitest,kotlin,ktor&perline=6&theme=light)](https://skillicons.dev)
 
+  <h3>💪 Recent Contribute</h3>
+  <a href="https://github.com/type-challenges/type-challenges">@type-challenges</a> /
+  <a href="https://github.com/webpro-nl/knip">@Knip</a>
+
   <h3>📈 Stats</h3>
   <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ysknsid25&show_icons=true&locale=en&layout=compact" alt="ysknsid25" />
