@@ -24,7 +24,7 @@
 
   <h3>🧠 Skills</h3>
 
-  [![My Skills](https://skillicons.dev/icons?i=gcp,firebase,githubactions,kotlin,ktor,js,ts,npm,nextjs,nestjs,cypress,vitest&perline=6&theme=light)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=gcp,firebase,githubactions,js,ts,npm,nextjs,nestjs,cypress,vitest,kotlin,ktor&perline=6&theme=light)](https://skillicons.dev)
 
   <h3>📈 Stats</h3>
   <p>
