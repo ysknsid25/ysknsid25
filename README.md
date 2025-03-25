@@ -57,3 +57,14 @@
 - ⚾️ watching a baseball game (🐯 🐂)
 - 🚶 Traveling
 - 🏗️ Crane game
+
+# more
+
+<p>
+  <a href="https://gist.github.com/ysknsid25/69393a8630c62cf2f12da30bdd926f4f">
+    <img src="https://github-readme-stats.vercel.app/api/gist?id=69393a8630c62cf2f12da30bdd926f4f" alt="Gist Card" />
+  </a>
+  <a href="https://gist.github.com/ysknsid25/3345ccce8451a37850ffda9467255c76">
+    <img src="https://github-readme-stats.vercel.app/api/gist?id=3345ccce8451a37850ffda9467255c76" alt="Gist Card" />
+  </a>
+</p>
