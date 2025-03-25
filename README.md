@@ -24,6 +24,14 @@
 - [@type-challenges](https://github.com/type-challenges/type-challenges)
 - [@Knip](https://github.com/webpro-nl/knip)
 
+# 💳 Certifications
+
+- 2022 - Google Proffesional Cloud Developer
+- 2022 - LPIC Lv.2
+- 2020 - IPA/AP
+- 2019 - Oracle Master Bronze
+- 2018 - Java SE8 Silver
+
 # 📱 Socials
 
 <p align="left">
@@ -38,22 +46,3 @@
   <a href="https://atcoder.jp/users/ysknsid25?contestType=algo"><img src="https://badgen.org/img/atcoder/ysknsid25/rating/algorithm?style=plastic" alt="Rating" /></a>
   <a href="https://bsky.app/profile/ysknsid25.bsky.social"><img src="https://badgen.org/img/bluesky/ysknsid25.bsky.social/followers?style=plastic" alt="Followers" /></a>
 </p>
-
-# 💳 Certifications
-
-- 2022 - Google Proffesional Cloud Developer
-- 2022 - LPIC Lv.2
-- 2020 - IPA/AP
-- 2019 - Oracle Master Bronze
-- 2018 - Java SE8 Silver
-
-# 💖 Favorites
-
-- 🪼 [Inori Minase](https://x.com/inoriminase)
-- 📺 Anime 
-- ⚾️ watching a baseball game (🐯 🐂)
-- 🚶 Traveling
-- 🏗️ Crane game
-
-
-
