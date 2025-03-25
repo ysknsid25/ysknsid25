@@ -39,14 +39,21 @@
   <a href="https://bsky.app/profile/ysknsid25.bsky.social"><img src="https://badgen.org/img/bluesky/ysknsid25.bsky.social/followers?style=plastic" alt="Followers" /></a>
 </p>
 
+# 💳 Certifications
+
+- 2022 - Google Proffesional Cloud Developer
+- 2022 - LPIC Lv.2
+- 2020 - IPA/AP
+- 2019 - Oracle Master Bronze
+- 2018 - Java SE8 Silver
+
 # 💖 Favorites
 
 - [Inori Minase](https://x.com/inoriminase)
-- [Hinaki Yano](https://twitter.com/yano_hinaki35)
-- Anime 📺
-- watching a baseball game (🐯 🐂)
-- Traveling🇯🇵
-
+- 📺 Anime 
+- ⚾️ watching a baseball game (🐯 🐂)
+- 🚶 Traveling
+- 🏗️ Crane game
 
 
 
