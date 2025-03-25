@@ -62,3 +62,14 @@
     <img src="https://github-readme-stats.vercel.app/api/gist?id=3345ccce8451a37850ffda9467255c76" alt="Gist Card" />
   </a>
 </p>
+
+# 👨‍👨‍👦 Organizer
+
+<p>
+  <a href="https://kobets.connpass.com/">
+    <img width="224px" height="144px" src="https://private-user-images.githubusercontent.com/44870505/426563631-2f7fb33b-aac0-445d-bb8a-163d0ad10e08.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDI5MTE3NTIsIm5iZiI6MTc0MjkxMTQ1MiwicGF0aCI6Ii80NDg3MDUwNS80MjY1NjM2MzEtMmY3ZmIzM2ItYWFjMC00NDVkLWJiOGEtMTYzZDBhZDEwZTA4LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzI1VDE0MDQxMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTZmYzdkZWUwYzE3MGUwNjFmMGRkMzNiZDE4YTViNTFmM2EyNmJjYWZkYmY1ZTMyMzZhMDA1ZjU2YjA4ZjNkYWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.EdU50uVPNS5MH7XDiQvx0wCy44iJgvpj6OgmFI4mbXs"
+  </a>
+  <a href="https://serverside-kt.connpass.com/">
+    <img width="224px" height="144px" src="https://private-user-images.githubusercontent.com/44870505/426563697-7fad3381-c10e-4b08-aece-a18c44a89707.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDI5MTE3NTIsIm5iZiI6MTc0MjkxMTQ1MiwicGF0aCI6Ii80NDg3MDUwNS80MjY1NjM2OTctN2ZhZDMzODEtYzEwZS00YjA4LWFlY2UtYTE4YzQ0YTg5NzA3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzI1VDE0MDQxMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNjZDcyZWQzNzJkOTZiM2NhOGY1Y2JlNTk4ZjRmZmY3YWRmNTBiMzUxY2E3MTZmNTQwNzI3ZmJiODA0ZjQ4ZmEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.8VBjYDajB1yVSZYGeAaZPy0TNth43YgLXXa8IyynsRo"
+  </a>
+</p>
