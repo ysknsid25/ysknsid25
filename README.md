@@ -6,8 +6,8 @@
 </div>
 <div align="center">
   <p>
-    <img height="180px" src="https://github-readme-streak-stats.herokuapp.com?user=ysknsid25" alt="GitHub Streak" />
-    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=ysknsid25&show_icons=true&locale=en&rank_icon=github" alt="ysknsid25" />
+    <img height="180px" width="495px" src="https://github-readme-streak-stats.herokuapp.com?user=ysknsid25" alt="GitHub Streak" />
+    <img height="180px" width="495px" src="https://github-readme-stats.vercel.app/api?username=ysknsid25&show_icons=true&locale=en&rank_icon=github" alt="ysknsid25" />
   </p>
 </div>
 
