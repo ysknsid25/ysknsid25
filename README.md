@@ -49,7 +49,7 @@
 
 # 💖 Favorites
 
-- [Inori Minase](https://x.com/inoriminase)
+- 🪼 [Inori Minase](https://x.com/inoriminase)
 - 📺 Anime 
 - ⚾️ watching a baseball game (🐯 🐂)
 - 🚶 Traveling
