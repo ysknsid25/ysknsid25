@@ -40,6 +40,7 @@
 - [@type-challenges](https://github.com/type-challenges/type-challenges)
 - [@Knip](https://github.com/webpro-nl/knip)
 - [@zenn-dev](https://github.com/zenn-dev/zenn-editor)
+- [@Ixy194194](https://github.com/Ixy194194/ixy194194.github.io)
 
 # 💳 Certifications
 
