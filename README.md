@@ -18,22 +18,16 @@
   <a href="https://blog.hatena.ne.jp/ysknsid25/karanohako.hatenablog.jp/subscribe?from_url=https%3A%2F%2Fblog.inorinrinrin.com%2F&utm_source=hatena-follow-button-box&utm_medium=button&utm_campaign=subscribe_blog" target="blank"><img src="https://img.shields.io/badge/Hatena Blog-Subscribe-white" alt="hatena" /></a>
     <a href="https://speakerdeck.com/ysknsid25" target="blank"><img src="https://img.shields.io/badge/Speaker%20Deck-009287" alt="speakerdeck" /></a>
     <a href="https://www.amazon.jp/hz/wishlist/ls/969G9ER8XWFW?ref_=wl_share" target="blank"><img src="https://img.shields.io/badge/Amazon-Wish%20List-white?labelColor=ff9900&color=232f3e" alt="hatena" /></a>
+    <a href="https://atcoder.jp/users/ysknsid25?contestType=algo"><img src="https://badgen.org/img/atcoder/ysknsid25/rating/algorithm?style=plastic" alt="Rating" /></a>
 </p>
-<p align="left">
-  <a href="https://zenn.dev/yskn_sid25"><img src="https://badgen.org/img/zenn/yskn_sid25/likes?style=plastic" alt="Likes" /></a>
-  <a href="https://qiita.com/ysknsid25"><img src="https://badgen.org/img/qiita/ysknsid25/contributions?style=plastic" alt="Contributions" /></a>
-  <a href="https://atcoder.jp/users/ysknsid25?contestType=algo"><img src="https://badgen.org/img/atcoder/ysknsid25/rating/algorithm?style=plastic" alt="Rating" /></a>
-  <a href="https://bsky.app/profile/ysknsid25.bsky.social"><img src="https://badgen.org/img/bluesky/ysknsid25.bsky.social/followers?style=plastic" alt="Followers" /></a>
-</p>
-
 
 # 🧠 Skills
-
-[![My Skills](https://skillicons.dev/icons?i=gcp,firebase,githubactions,js,ts,npm,nextjs,nestjs,cypress,vitest,kotlin,ktor&perline=6&theme=light)](https://skillicons.dev)
 
 <p>
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ysknsid25&show_icons=true&locale=en&layout=compact" alt="ysknsid25" />
 </p>
+
+[![My Skills](https://skillicons.dev/icons?i=gcp,firebase,linux,githubactions,ktor,npm,react,nextjs,nestjs,cypress,vite,vitest&perline=6&theme=light)](https://skillicons.dev)
 
 # 💪 Contributed
 
@@ -58,7 +52,7 @@
 - 🚶 Traveling
 - 🏗️ Crane game
 
-# 🗒 Histries
+# 🗒 Histories
 
 <p>
   <a href="https://gist.github.com/ysknsid25/69393a8630c62cf2f12da30bdd926f4f">
