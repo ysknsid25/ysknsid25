@@ -4,6 +4,25 @@
     <img src="https://komarev.com/ghpvc/?username=ysknsid25" />
   </p>
 </div>
+<div align="center">
+  <p>
+    <img height="180px" src="https://github-readme-streak-stats.herokuapp.com?user=ysknsid25" alt="GitHub Streak" />
+    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=ysknsid25&show_icons=true&locale=en&rank_icon=github" alt="ysknsid25" />
+  </p>
+</div>
+
+# 🧠 Skills
+
+[![My Skills](https://skillicons.dev/icons?i=gcp,firebase,githubactions,js,ts,npm,nextjs,nestjs,cypress,vitest,kotlin,ktor&perline=6&theme=light)](https://skillicons.dev)
+
+<p>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ysknsid25&show_icons=true&locale=en&layout=compact" alt="ysknsid25" />
+</p>
+
+# 💪 Contributed
+
+- [@type-challenges](https://github.com/type-challenges/type-challenges)
+- [@Knip](https://github.com/webpro-nl/knip)
 
 # 📱 Socials
 
@@ -27,24 +46,6 @@
 - Anime 📺
 - watching a baseball game (🐯 🐂)
 - Traveling🇯🇵
-
-# 🧠 Skills
-
-[![My Skills](https://skillicons.dev/icons?i=gcp,firebase,githubactions,js,ts,npm,nextjs,nestjs,cypress,vitest,kotlin,ktor&perline=6&theme=light)](https://skillicons.dev)
-
-# 💪 Contributed
-
-- [@type-challenges](https://github.com/type-challenges/type-challenges)
-- [@Knip](https://github.com/webpro-nl/knip)
-
-# 📈 Stats
-  <p>
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ysknsid25" alt="GitHub Streak" /></a>
-  </p>
-  <p>
-    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ysknsid25&show_icons=true&locale=en&layout=compact" alt="ysknsid25" />
-    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=ysknsid25&show_icons=true&locale=en&rank_icon=github" alt="ysknsid25" />
-  </p>
 
 
 
