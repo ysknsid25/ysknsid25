@@ -32,13 +32,10 @@
 
 <p>
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ysknsid25&show_icons=true&locale=en&layout=compact" alt="ysknsid25" />
-</p>
-
-[![My Skills](https://skillicons.dev/icons?i=gcp,firebase,linux,githubactions,ktor,npm,react,nextjs,nestjs,cypress,vite,vitest&perline=6&theme=light)](https://skillicons.dev)
-
-<p>
   <img height="180px" src="https://lapras-card-generator.vercel.app/api/svg?e=4.32&b=4&i=4.1&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja&u=" alt="lapras" />
 </p>
+
+[![My Skills](https://skillicons.dev/icons?i=gcp,firebase,linux,githubactions,ktor,npm,react,nextjs,nestjs,cypress,vite,vitest&theme=light)](https://skillicons.dev)
 
 # 💪 Contributed
 
