@@ -9,9 +9,6 @@
     <img src="https://streak-stats.demolab.com?user=ysknsid25" alt="GitHub Streak" />
   </p>
   <p>
-    <img height="180px" src="https://lapras-card-generator.vercel.app/api/svg?e=4.32&b=4&i=4.1&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja&u=" alt="lapras" />
-  </p>
-  <p>
     <img src="https://raw.githubusercontent.com/ysknsid25/ysknsid25/master/profile-summary-card-output/github/1-repos-per-language.svg" />
     <img src="https://raw.githubusercontent.com/ysknsid25/ysknsid25/master/profile-summary-card-output/github/2-most-commit-language.svg" />
   </p>
@@ -38,6 +35,10 @@
 </p>
 
 [![My Skills](https://skillicons.dev/icons?i=gcp,firebase,linux,githubactions,ktor,npm,react,nextjs,nestjs,cypress,vite,vitest&perline=6&theme=light)](https://skillicons.dev)
+
+<p>
+  <img height="180px" src="https://lapras-card-generator.vercel.app/api/svg?e=4.32&b=4&i=4.1&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja&u=" alt="lapras" />
+</p>
 
 # 💪 Contributed
 
