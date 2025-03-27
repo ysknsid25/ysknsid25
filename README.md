@@ -6,8 +6,11 @@
 </div>
 <div align="center">
   <p>
-    <img height="180px" src="https://streak-stats.demolab.com?user=ysknsid25" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=ysknsid25" alt="GitHub Streak" />
+  </p>
+  <p>
     <img height="180px" src="https://github-readme-stats.vercel.app/api?username=ysknsid25&show_icons=true&locale=en&rank_icon=github" alt="ysknsid25" />
+    <img height="180px" src="https://lapras-card-generator.vercel.app/api/svg?e=4.32&b=4&i=4.1&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja&u=" alt="lapras" />
   </p>
 </div>
 
