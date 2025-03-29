@@ -37,6 +37,12 @@
 
 [![My Skills](https://skillicons.dev/icons?i=gcp,firebase,linux,githubactions,ktor,pnpm,react,nextjs,nestjs,cypress,vite,vitest&theme=light)](https://skillicons.dev)
 
+<p>
+  <a href="https://gist.github.com/ysknsid25/636c808893a8cfe3433676b2e842db86">
+    <img src="https://github-readme-stats.vercel.app/api/gist?id=636c808893a8cfe3433676b2e842db86" alt="Gist Card" />
+  </a>
+</p>
+
 # 💪 Contributed
 
 - [type-challenges](https://github.com/type-challenges/type-challenges)
