@@ -29,26 +29,17 @@
 </p>
 
 # 🧠 Skills
-
 <p>
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ysknsid25&show_icons=true&locale=en&layout=compact" alt="ysknsid25" />
   <img height="180px" src="https://lapras-card-generator.vercel.app/api/svg?e=4.32&b=4&i=4.1&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja&u=" alt="lapras" />
 </p>
-
-[![My Skills](https://skillicons.dev/icons?i=gcp,firebase,linux,githubactions,ktor,pnpm,react,nextjs,nestjs,cypress,vite,vitest&theme=light)](https://skillicons.dev)
-
 <p>
   <a href="https://gist.github.com/ysknsid25/636c808893a8cfe3433676b2e842db86">
     <img src="https://github-readme-stats.vercel.app/api/gist?id=636c808893a8cfe3433676b2e842db86" alt="Gist Card" />
   </a>
 </p>
 
-# 💪 Contributed
-
-- [type-challenges](https://github.com/type-challenges/type-challenges)
-- [Knip](https://github.com/webpro-nl/knip)
-- [zenn-editor](https://github.com/zenn-dev/zenn-editor)
-- [Ixy's Web Page](https://github.com/Ixy194194/ixy194194.github.io)
+[![My Skills](https://skillicons.dev/icons?i=gcp,firebase,linux,githubactions,ktor,pnpm,react,nextjs,nestjs,cypress,vite,vitest&theme=light)](https://skillicons.dev)
 
 # 💳 Certifications
 
