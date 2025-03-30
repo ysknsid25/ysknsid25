@@ -20,6 +20,8 @@
 
 # 📱 Socials
 
+Only Bluesky is in English.
+
 <p align="left">
   <a href="https://twitter.com/ysknsid25" target="blank"><img src="https://img.shields.io/twitter/follow/ysknsid25" alt="ysknsid25" /></a>
   <a href="https://bsky.app/profile/ysknsid25.bsky.social"><img src="https://badgen.org/img/bluesky/ysknsid25.bsky.social/followers?style=plastic" alt="Followers" /></a>
