@@ -24,6 +24,7 @@
   <a href="https://twitter.com/ysknsid25" target="blank"><img src="https://img.shields.io/twitter/follow/ysknsid25" alt="ysknsid25" /></a>
   <a href="https://blog.hatena.ne.jp/ysknsid25/karanohako.hatenablog.jp/subscribe?from_url=https%3A%2F%2Fblog.inorinrinrin.com%2F&utm_source=hatena-follow-button-box&utm_medium=button&utm_campaign=subscribe_blog" target="blank"><img src="https://img.shields.io/badge/Hatena Blog-Subscribe-white" alt="hatena" /></a>
     <a href="https://speakerdeck.com/ysknsid25" target="blank"><img src="https://img.shields.io/badge/Speaker%20Deck-009287" alt="speakerdeck" /></a>
+    <a href="https://www.instagram.com/ysknsid25/" target="blank"><img src="https://img.shields.io/badge/Instagram-E1306C" alt="speakerdeck" /></a>
     <a href="https://www.amazon.jp/hz/wishlist/ls/969G9ER8XWFW?ref_=wl_share" target="blank"><img src="https://img.shields.io/badge/Amazon-Wish%20List-white?labelColor=ff9900&color=232f3e" alt="hatena" /></a>
     <a href="https://atcoder.jp/users/ysknsid25?contestType=algo"><img src="https://badgen.org/img/atcoder/ysknsid25/rating/algorithm?style=plastic" alt="Rating" /></a>
 </p>
