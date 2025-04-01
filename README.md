@@ -20,7 +20,7 @@
 
 # 📱 Socials
 
-Only Bluesky is in English.
+Only Bluesky is in English. You can contact me from [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSeH2yz8BRmSSYWsz_AwRfYbDZv3av4Spg__T60Wy_7dVJik0w/viewform).
 
 <p align="left">
   <a href="https://twitter.com/ysknsid25" target="blank"><img src="https://img.shields.io/twitter/follow/ysknsid25" alt="ysknsid25" /></a>
