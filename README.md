@@ -5,6 +5,20 @@
   </p>
 </div>
 <div align="center">
+  <h3>🧠 Skills</h3>
+  <p>
+    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ysknsid25&show_icons=true&locale=en&layout=compact" alt="ysknsid25" />
+    <img height="180px" src="https://lapras-card-generator.vercel.app/api/svg?e=4.32&b=4&i=4.1&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja&u=" alt="lapras" />
+  </p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=gcp,firebase,linux,githubactions,ktor,pnpm,react,nextjs,nestjs,cypress,vite,vitest&theme=light" />
+  </p>
+  <p>
+    <a href="https://gist.github.com/ysknsid25/636c808893a8cfe3433676b2e842db86">
+      <img src="https://github-readme-stats.vercel.app/api/gist?id=636c808893a8cfe3433676b2e842db86" alt="Gist Card" />
+    </a>
+  </p>
+  <h3>📈 Stats</h3>
   <p>
     <img src="https://streak-stats.demolab.com?user=ysknsid25" alt="GitHub Streak" />
   </p>
@@ -31,19 +45,6 @@ Only Bluesky is in English. You can contact me from [Google Form](https://docs.g
     <a href="https://www.amazon.jp/hz/wishlist/ls/969G9ER8XWFW?ref_=wl_share" target="blank"><img src="https://img.shields.io/badge/Amazon-Wish%20List-white?labelColor=ff9900&color=232f3e" alt="hatena" /></a>
     <a href="https://atcoder.jp/users/ysknsid25?contestType=algo"><img src="https://badgen.org/img/atcoder/ysknsid25/rating/algorithm?style=plastic" alt="Rating" /></a>
 </p>
-
-# 🧠 Skills
-<p>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ysknsid25&show_icons=true&locale=en&layout=compact" alt="ysknsid25" />
-  <img height="180px" src="https://lapras-card-generator.vercel.app/api/svg?e=4.32&b=4&i=4.1&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja&u=" alt="lapras" />
-</p>
-<p>
-  <a href="https://gist.github.com/ysknsid25/636c808893a8cfe3433676b2e842db86">
-    <img src="https://github-readme-stats.vercel.app/api/gist?id=636c808893a8cfe3433676b2e842db86" alt="Gist Card" />
-  </a>
-</p>
-
-[![My Skills](https://skillicons.dev/icons?i=gcp,firebase,linux,githubactions,ktor,pnpm,react,nextjs,nestjs,cypress,vite,vitest&theme=light)](https://skillicons.dev)
 
 # 💳 Certifications
 
