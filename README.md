@@ -46,6 +46,12 @@ Only Bluesky is in English. You can contact me from [Google Form](https://docs.g
     <a href="https://atcoder.jp/users/ysknsid25?contestType=algo"><img src="https://badgen.org/img/atcoder/ysknsid25/rating/algorithm?style=plastic" alt="Rating" /></a>
 </p>
 
+# 👀 Particularly interested in
+
+bigger on the left.
+
+<img src="https://skillicons.dev/icons?i=ts,js,gcp,kotlin&theme=light" />
+
 # 💳 Certifications
 
 - 2022 - Google Proffesional Cloud Developer
