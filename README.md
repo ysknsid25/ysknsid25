@@ -8,6 +8,7 @@
   <h3>🧠 Skills</h3>
   <p>
     <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ysknsid25&show_icons=true&locale=en&layout=compact" alt="ysknsid25" />
+    <!-- <img height="180px" src="https://github-readme-stats.vercel.app/api?username=ysknsid25&show_icons=true&theme=transparent" /> -->
     <img height="180px" src="https://lapras-card-generator.vercel.app/api/svg?e=4.32&b=4&i=4.1&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja&u=" alt="lapras" />
   </p>
   <p>
