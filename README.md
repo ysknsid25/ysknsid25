@@ -1,7 +1,9 @@
+<p>
+  <img src="https://github.com/user-attachments/assets/298b47dd-3894-4e30-84f5-c0e509a21403">
+</p>
+Illustrated by <a href="https://x.com/oekaki_bibbi" target="_blank">@oekaki_bibbi</a>
+<hr>
 <div align="center">
-  <p>
-    <img src="https://typograssy.deno.dev/api?text=Hi!%20I%27m+Kanon" />
-  </p>
   <p>
     <img src="https://komarev.com/ghpvc/?username=ysknsid25" />
   </p>
@@ -94,10 +96,3 @@ bigger on the left.
     <img width="224px" height="144px" src="https://github.com/user-attachments/assets/c56f86d1-7237-481d-85c3-2d0d61f3f2ce"
   </a>
 </p>
-
-<hr>
-
-<p>
-  <img src="https://github.com/user-attachments/assets/298b47dd-3894-4e30-84f5-c0e509a21403">
-</p>
-Illustrated by <a href="https://x.com/oekaki_bibbi" target="_blank">@oekaki_bibbi</a>
