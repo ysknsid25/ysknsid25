@@ -45,6 +45,8 @@ Only Bluesky is in English. You can contact me from [Google Form](https://docs.g
     <a href="https://www.instagram.com/ysknsid25/" target="blank"><img src="https://img.shields.io/badge/Instagram-E1306C" alt="speakerdeck" /></a>
     <a href="https://www.amazon.jp/hz/wishlist/ls/969G9ER8XWFW?ref_=wl_share" target="blank"><img src="https://img.shields.io/badge/Amazon-Wish%20List-white?labelColor=ff9900&color=232f3e" alt="hatena" /></a>
     <a href="https://atcoder.jp/users/ysknsid25?contestType=algo"><img src="https://badgen.org/img/atcoder/ysknsid25/rating/algorithm?style=plastic" alt="Rating" /></a>
+    <a href="https://zenn.dev/yskn_sid25"><img src="https://badgen.org/img/zenn/yskn_sid25/likes?style=plastic" alt="Likes" /></a>
+    <a href="https://qiita.com/ysknsid25"><img src="https://badgen.org/img/qiita/ysknsid25/contributions?style=plastic" alt="Contributions" /></a>
 </p>
 
 # 👀 Particularly interested in
