@@ -100,3 +100,4 @@ bigger on the left.
 <p>
   <img src="https://github.com/user-attachments/assets/298b47dd-3894-4e30-84f5-c0e509a21403">
 </p>
+Illustrated by <a href="https://x.com/oekaki_bibbi" target="_blank">@oekaki_bibbi</a>
