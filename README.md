@@ -25,6 +25,9 @@ Illustrated by <a href="https://x.com/oekaki_bibbi" target="_blank">@oekaki_bibb
   </p>
   <h3>📈 Stats</h3>
   <p>
+    <b>⚠️ This account is for side business and personal use. ⚠️</b>
+  </p>
+  <p>
     <img src="https://streak-stats.demolab.com?user=ysknsid25" alt="GitHub Streak" />
   </p>
   <p>
