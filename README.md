@@ -58,10 +58,8 @@ Only Bluesky is in English. You can contact me from [Google Form](https://docs.g
 
 ## 🖋 blogs
 
-- [Tech](https://zenn.dev/yskn_sid25)
-- [Tech Scrap](https://zenn.dev/dashboard/scraps)
+- [Tech](https://dev.inorinrinrin.com/)
 - [ideas and subcultures](https://blog.inorinrinrin.com/)
-- [English](https://dev.inorinrinrin.com/)
 
 # 👀 Particularly interested in
 
