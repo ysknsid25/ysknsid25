@@ -56,6 +56,13 @@ Only Bluesky is in English. You can contact me from [Google Form](https://docs.g
     <a href="https://qiita.com/ysknsid25"><img src="https://badgen.org/img/qiita/ysknsid25/contributions?style=plastic" alt="Contributions" /></a>
 </p>
 
+## 🖋 blogs
+
+- [Tech](https://zenn.dev/yskn_sid25)
+- [Tech Scrap](https://zenn.dev/dashboard/scraps)
+- [ideas and subcultures](https://blog.inorinrinrin.com/)
+- [English](https://dev.inorinrinrin.com/)
+
 # 👀 Particularly interested in
 
 bigger on the left.
