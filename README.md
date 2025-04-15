@@ -44,7 +44,8 @@ Illustrated by <a href="https://x.com/oekaki_bibbi" target="_blank">@oekaki_bibb
 
 1. Become a member of UnJS
 2. Be able to communicate in English
-3. AtCoder Green
+3. Exercise. Weight loss.
+4. AtCoder Green
 
 # 📱 Socials
 
