@@ -82,17 +82,12 @@ bigger on the left.
 - 2019 - Oracle Master Bronze
 - 2018 - Java SE8 Silver
 
-# 💖 Favorites
-
-- 💧 [Inori Minase](https://x.com/inoriminase)
-- 📺 Anime 
-- ⚾️ watching a baseball game (🐯 🐂)
-- 🚶 Traveling
-- 🏗️ Crane game
-
-# 🗒 Histories
+# 🗒 More Details
 
 <p>
+  <a href="https://gist.github.com/ysknsid25/fc1b194fdcc76cdba4eb2cc19762f515">
+    <img src="https://github-readme-stats.vercel.app/api/gist?id=fc1b194fdcc76cdba4eb2cc19762f515" alt="Gist Card" />
+  </a>
   <a href="https://gist.github.com/ysknsid25/69393a8630c62cf2f12da30bdd926f4f">
     <img src="https://github-readme-stats.vercel.app/api/gist?id=69393a8630c62cf2f12da30bdd926f4f" alt="Gist Card" />
   </a>
