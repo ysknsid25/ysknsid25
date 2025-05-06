@@ -40,13 +40,6 @@ Illustrated by <a href="https://x.com/oekaki_bibbi" target="_blank">@oekaki_bibb
   </p>
 </div>
 
-# 🏆 Goals to be achieved
-
-1. Become a member of UnJS
-2. Be able to communicate in English
-3. Exercise. Weight loss.
-4. AtCoder Green
-
 # 📱 Socials
 
 Only Bluesky is in English. You can contact me from [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSeH2yz8BRmSSYWsz_AwRfYbDZv3av4Spg__T60Wy_7dVJik0w/viewform).
