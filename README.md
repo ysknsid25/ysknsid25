@@ -59,7 +59,6 @@ Only Bluesky is in English. You can contact me from [Google Form](https://docs.g
 ## 🖋 blogs
 
 - [Tech](https://dev.inorinrinrin.com/)
-- [ideas and subcultures](https://blog.inorinrinrin.com/)
 
 # 👀 Particularly interested in
 
