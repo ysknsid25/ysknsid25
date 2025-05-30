@@ -54,22 +54,13 @@ Only Bluesky is in English. You can contact me from [Google Form](https://docs.g
 ## 🖋 blogs
 
 - [Tech](https://dev.inorinrinrin.com/)
-- [others](https://blog.inorinrinrin.com/)
-- [sirent](https://sizu.me/ysknsid25)
+- [Others](https://blog.inorinrinrin.com/)
 
 # 👀 Particularly interested in
 
 bigger on the left.
 
 <img src="https://skillicons.dev/icons?i=ts,js,gcp,kotlin&theme=light" />
-
-# 💳 Certifications
-
-- 2022 - Google Proffesional Cloud Developer
-- 2022 - LPIC Lv.2
-- 2020 - IPA/AP
-- 2019 - Oracle Master Bronze
-- 2018 - Java SE8 Silver
 
 # 🗒 More Details
 
