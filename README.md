@@ -65,14 +65,14 @@ bigger on the left.
 # 🗒 More Details
 
 <p>
-  <a href="https://gist.github.com/ysknsid25/73c159fa3b5658da8beacd9b63659c60">
-    <img src="https://github-readme-stats.vercel.app/api/gist?id=73c159fa3b5658da8beacd9b63659c60" alt="Gist Card" />
+  <a href="https://gist.github.com/ysknsid25/fc1b194fdcc76cdba4eb2cc19762f515">
+    <img src="https://github-readme-stats.vercel.app/api/gist?id=fc1b194fdcc76cdba4eb2cc19762f515" alt="Gist Card" />
   </a>
   <a href="https://gist.github.com/ysknsid25/69393a8630c62cf2f12da30bdd926f4f">
     <img src="https://github-readme-stats.vercel.app/api/gist?id=69393a8630c62cf2f12da30bdd926f4f" alt="Gist Card" />
   </a>
-  <a href="https://gist.github.com/ysknsid25/3345ccce8451a37850ffda9467255c76">
-    <img src="https://github-readme-stats.vercel.app/api/gist?id=3345ccce8451a37850ffda9467255c76" alt="Gist Card" />
+  <a href="https://gist.github.com/ysknsid25/73c159fa3b5658da8beacd9b63659c60">
+    <img src="https://github-readme-stats.vercel.app/api/gist?id=73c159fa3b5658da8beacd9b63659c60" alt="Gist Card" />
   </a>
 </p>
 
