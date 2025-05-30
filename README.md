@@ -54,6 +54,7 @@ Only Bluesky is in English. You can contact me from [Google Form](https://docs.g
 ## 🖋 blogs
 
 - [Tech](https://dev.inorinrinrin.com/)
+- [AtCoder](https://github.com/ysknsid25/atcoder/wiki)
 - [Others](https://blog.inorinrinrin.com/)
 
 # 👀 Particularly interested in
