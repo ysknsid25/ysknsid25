@@ -74,14 +74,3 @@ bigger on the left.
     <img src="https://github-readme-stats.vercel.app/api/gist?id=73c159fa3b5658da8beacd9b63659c60" alt="Gist Card" />
   </a>
 </p>
-
-# 👨‍👨‍👦 Organizer
-
-<p>
-  <a href="https://kobets.connpass.com/">
-    <img width="224px" height="144px" src="https://github.com/user-attachments/assets/5b092b34-b388-4a7a-8993-c1fd491c268a"
-  </a>
-  <a href="https://serverside-kt.connpass.com/">
-    <img width="224px" height="144px" src="https://github.com/user-attachments/assets/c56f86d1-7237-481d-85c3-2d0d61f3f2ce"
-  </a>
-</p>
