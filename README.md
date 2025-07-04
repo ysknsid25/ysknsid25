@@ -52,8 +52,9 @@ Only Bluesky is in English. You can contact me from [Google Form](https://docs.g
 
 ## 🖋 blogs
 
-- [Google Cloud, JS/TS](https://zenn.dev/yskn_sid25)
-- [Kotlin](https://qiita.com/ysknsid25)
+- [Tech Blog(latest)](https://zenn.dev/yskn_sid25)
+- [Google Cloud, JS/TS(old)](https://zenn.dev/yskn_sid25)
+- [Kotlin(old)](https://qiita.com/ysknsid25)
 - [AtCoder](https://github.com/ysknsid25/atcoder/wiki)
 - [Others](https://blog.inorinrinrin.com/)
 - [Myself Release Note](https://github.com/ysknsid25/ysknsid25/releases)
