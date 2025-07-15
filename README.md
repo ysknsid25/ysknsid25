@@ -36,7 +36,7 @@
 
 # 📱 Socials
 
-Only Bluesky is in English. You can contact me from [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSeH2yz8BRmSSYWsz_AwRfYbDZv3av4Spg__T60Wy_7dVJik0w/viewform).
+You can contact me from [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSeH2yz8BRmSSYWsz_AwRfYbDZv3av4Spg__T60Wy_7dVJik0w/viewform).
 
 <p align="left">
   <a href="https://speakerdeck.com/ysknsid25" target="blank"><img src="https://img.shields.io/badge/Speaker%20Deck-009287" alt="speakerdeck" /></a>
