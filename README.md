@@ -48,12 +48,12 @@ You can contact me from [Google Form](https://docs.google.com/forms/d/e/1FAIpQLS
 
 ## 🖋 blogs
 
-- [Tech Blog(latest)](https://dev.inorinrinrin.com)
-- [Google Cloud, JS/TS(old)](https://zenn.dev/yskn_sid25)
-- [Kotlin(old)](https://qiita.com/ysknsid25)
-- [AtCoder](https://github.com/ysknsid25/atcoder/wiki)
-- [Others](https://blog.inorinrinrin.com/)
+- [Tech Blog](https://dev.inorinrinrin.com)
+- [Life Blog](https://blog.inorinrinrin.com/)
 - [Myself Release Note](https://github.com/ysknsid25/ysknsid25/releases)
+- [AtCoder](https://github.com/ysknsid25/atcoder/wiki)
+- [Google Cloud, JS/TS(outdated)](https://zenn.dev/yskn_sid25)
+- [Kotlin(outdated)](https://qiita.com/ysknsid25)
 
 # 👀 Particularly interested in
 
