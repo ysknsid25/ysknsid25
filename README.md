@@ -50,8 +50,8 @@ You can contact me from [Google Form](https://docs.google.com/forms/d/e/1FAIpQLS
 
 - [Tech Blog](https://dev.inorinrinrin.com)
 - [Life Blog](https://blog.inorinrinrin.com/)
+- [AtCoder Blog](https://github.com/ysknsid25/atcoder/wiki)
 - [Myself Release Note](https://github.com/ysknsid25/ysknsid25/releases)
-- [AtCoder](https://github.com/ysknsid25/atcoder/wiki)
 - [Google Cloud, JS/TS](https://zenn.dev/yskn_sid25) (outdated)
 - [Kotlin](https://qiita.com/ysknsid25) (outdated)
 
