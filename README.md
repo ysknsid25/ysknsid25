@@ -66,7 +66,4 @@ bigger on the left.
   <a href="https://gist.github.com/ysknsid25/fc1b194fdcc76cdba4eb2cc19762f515">
     <img src="https://github-readme-stats.vercel.app/api/gist?id=fc1b194fdcc76cdba4eb2cc19762f515" alt="Gist Card" />
   </a>
-  <a href="https://gist.github.com/ysknsid25/73c159fa3b5658da8beacd9b63659c60">
-    <img src="https://github-readme-stats.vercel.app/api/gist?id=73c159fa3b5658da8beacd9b63659c60" alt="Gist Card" />
-  </a>
 </p>
