@@ -4,15 +4,6 @@
   </p>
 </div>
 <div align="center">
-  <h3>⏰ History of OSS Contribute & Conference Presentation</h3>
-  <p>
-    <a href="https://gist.github.com/ysknsid25/636c808893a8cfe3433676b2e842db86">
-      <img src="https://github-readme-stats.vercel.app/api/gist?id=636c808893a8cfe3433676b2e842db86" alt="Gist Card" />
-    </a>
-    <a href="https://gist.github.com/ysknsid25/69393a8630c62cf2f12da30bdd926f4f">
-      <img src="https://github-readme-stats.vercel.app/api/gist?id=69393a8630c62cf2f12da30bdd926f4f" alt="Gist Card" />
-    </a>
-  </p>
   <h3>📈 Stats</h3>
   <p>
     <b>⚠️ This account is for side business and personal use. ⚠️</b>
@@ -46,24 +37,22 @@ You can contact me from [Google Form](https://docs.google.com/forms/d/e/1FAIpQLS
   <a href="https://www.amazon.jp/hz/wishlist/ls/969G9ER8XWFW?ref_=wl_share" target="blank"><img src="https://img.shields.io/badge/Amazon-Wish%20List-white?labelColor=ff9900&color=232f3e" alt="hatena" /></a>
 </p>
 
-## 🖋 blogs
-
-- [Tech Blog](https://dev.inorinrinrin.com)
-- [Life Blog](https://blog.inorinrinrin.com/)
-- [AtCoder Blog](https://github.com/ysknsid25/atcoder/wiki)
-- [Google Cloud, JS/TS](https://zenn.dev/yskn_sid25) (outdated)
-- [Kotlin](https://qiita.com/ysknsid25) (outdated)
-
 # 👀 Particularly interested in
 
-bigger on the left.
-
-<img src="https://skillicons.dev/icons?i=ts,js,gcp,kotlin,python&theme=light" />
+<img src="https://skillicons.dev/icons?i=gcp,aws,cloudflare,vercel,ts,js,go,kotlin,python&theme=light" />
 
 # 🗒 More Details
 
 <p>
   <a href="https://gist.github.com/ysknsid25/fc1b194fdcc76cdba4eb2cc19762f515">
     <img src="https://github-readme-stats.vercel.app/api/gist?id=fc1b194fdcc76cdba4eb2cc19762f515" alt="Gist Card" />
+  </a>
+</p>
+<p>
+  <a href="https://gist.github.com/ysknsid25/636c808893a8cfe3433676b2e842db86">
+    <img src="https://github-readme-stats.vercel.app/api/gist?id=636c808893a8cfe3433676b2e842db86" alt="Gist Card" />
+  </a>
+  <a href="https://gist.github.com/ysknsid25/69393a8630c62cf2f12da30bdd926f4f">
+    <img src="https://github-readme-stats.vercel.app/api/gist?id=69393a8630c62cf2f12da30bdd926f4f" alt="Gist Card" />
   </a>
 </p>
