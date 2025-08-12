@@ -25,21 +25,9 @@
   </p>
 </div>
 
-# 📱 Socials
-
-You can contact me from [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSeH2yz8BRmSSYWsz_AwRfYbDZv3av4Spg__T60Wy_7dVJik0w/viewform).
-
-<p align="left">
-  <a href="https://speakerdeck.com/ysknsid25" target="blank"><img src="https://img.shields.io/badge/Speaker%20Deck-009287" alt="speakerdeck" /></a>
-  <a href="https://atcoder.jp/users/ysknsid25?contestType=algo"><img src="https://badgen.org/img/atcoder/ysknsid25/rating/algorithm?style=plastic" alt="Rating" /></a>
-  <a href="https://zenn.dev/yskn_sid25"><img src="https://badgen.org/img/zenn/yskn_sid25/likes?style=plastic" alt="Likes" /></a>
-  <a href="https://qiita.com/ysknsid25"><img src="https://badgen.org/img/qiita/ysknsid25/contributions?style=plastic" alt="Contributions" /></a>
-  <a href="https://www.amazon.jp/hz/wishlist/ls/969G9ER8XWFW?ref_=wl_share" target="blank"><img src="https://img.shields.io/badge/Amazon-Wish%20List-white?labelColor=ff9900&color=232f3e" alt="hatena" /></a>
-</p>
-
 # 👀 Particularly interested in
 
-<img src="https://skillicons.dev/icons?i=gcp,aws,cloudflare,vercel,ts,js,go,kotlin,python&theme=light" />
+<img src="https://skillicons.dev/icons?i=gcp,vercel,ts,js,go,kotlin&theme=light" />
 
 # 🗒 More Details
 
@@ -56,3 +44,7 @@ You can contact me from [Google Form](https://docs.google.com/forms/d/e/1FAIpQLS
     <img src="https://github-readme-stats.vercel.app/api/gist?id=69393a8630c62cf2f12da30bdd926f4f" alt="Gist Card" />
   </a>
 </p>
+
+# 📱 Contact
+
+You can contact me from [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSeH2yz8BRmSSYWsz_AwRfYbDZv3av4Spg__T60Wy_7dVJik0w/viewform).
