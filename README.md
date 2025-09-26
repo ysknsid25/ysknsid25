@@ -4,6 +4,19 @@
   </p>
 </div>
 <div align="center">
+  <h3>⚡️ Socials</h3>
+  <p>
+    <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/ysknsid25">
+    <a href="https://bsky.app/profile/ysknsid25.bsky.social"><img src="https://badgen.org/img/bluesky/ysknsid25.bsky.social/followers?style=plastic" alt="Followers" /></a>
+    <a href="https://atcoder.jp/users/ysknsid25?contestType=algo"><img src="https://badgen.org/img/atcoder/ysknsid25/rating/algorithm?style=plastic&label=AtCoder" alt="Rating" /></a>   
+  </p>
+  <p>
+    <a href="https://blog.hatena.ne.jp/ysknsid25/karanohako.hatenablog.jp/subscribe?from_url=https%3A%2F%2Fblog.inorinrinrin.com%2Fabout&utm_source=hatena-follow-button-box&utm_medium=button&utm_campaign=subscribe_blog"><img src="https://img.shields.io/badge/Blog Subscriber-98-blue" alt="blog" /></a>
+    <a href="https://blog.hatena.ne.jp/ysknsid25/karanohako.hatenablog.jp/subscribe?from_url=https%3A%2F%2Fblog.inorinrinrin.com%2Fabout&utm_source=hatena-follow-button-box&utm_medium=button&utm_campaign=subscribe_blog"><img src="https://img.shields.io/badge/be subscriber-blue" alt="blog" /></a>
+  </p>
+
+</div>
+<div align="center">
   <h3>📈 Stats</h3>
   <p>
     <b>⚠️ This account is for side business and personal use. ⚠️</b>
