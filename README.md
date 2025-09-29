@@ -6,6 +6,7 @@
 <div align="center">
   <h3>⚡️ Socials</h3>
   <p>
+    <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/ysknsid25">
     <a href="https://bsky.app/profile/ysknsid25.bsky.social"><img src="https://badgen.org/img/bluesky/ysknsid25.bsky.social/followers?style=plastic" alt="Followers" /></a>
     <a href="https://share.travy.jp/user/25201"><img src="https://img.shields.io/badge/Travy-1b8fb2" alt="travy" /></a>
     <a href="https://atcoder.jp/users/ysknsid25?contestType=algo"><img src="https://badgen.org/img/atcoder/ysknsid25/rating/algorithm?style=plastic&label=AtCoder" alt="Rating" /></a>   
