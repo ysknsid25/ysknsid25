@@ -12,7 +12,7 @@
     <a href="https://atcoder.jp/users/ysknsid25?contestType=algo"><img src="https://badgen.org/img/atcoder/ysknsid25/rating/algorithm?style=plastic&label=AtCoder" alt="Rating" /></a>   
   </p>
   <p>
-    <a href="https://blog.hatena.ne.jp/ysknsid25/karanohako.hatenablog.jp/subscribe?from_url=https%3A%2F%2Fblog.inorinrinrin.com%2Fabout&utm_source=hatena-follow-button-box&utm_medium=button&utm_campaign=subscribe_blog"><img src="https://img.shields.io/badge/Blog Subscriber-98-blue" alt="blog" /></a>
+    <a href="https://blog.hatena.ne.jp/ysknsid25/karanohako.hatenablog.jp/subscribe?from_url=https%3A%2F%2Fblog.inorinrinrin.com%2Fabout&utm_source=hatena-follow-button-box&utm_medium=button&utm_campaign=subscribe_blog"><img src="https://img.shields.io/badge/Blog Subscriber-100-blue" alt="blog" /></a>
     <a href="https://blog.hatena.ne.jp/ysknsid25/karanohako.hatenablog.jp/subscribe?from_url=https%3A%2F%2Fblog.inorinrinrin.com%2Fabout&utm_source=hatena-follow-button-box&utm_medium=button&utm_campaign=subscribe_blog"><img src="https://img.shields.io/badge/be subscriber-blue" alt="blog" /></a>
   </p>
 
