@@ -29,14 +29,6 @@
     <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ysknsid25&show_icons=true&locale=en&layout=compact" alt="ysknsid25" />
     <img height="180px" src="https://github-readme-stats.vercel.app/api?username=ysknsid25&show_icons=true&theme=transparent" />
   </p>
-  <p>
-    <img src="https://raw.githubusercontent.com/ysknsid25/ysknsid25/master/profile-summary-card-output/github/1-repos-per-language.svg" />
-    <img src="https://raw.githubusercontent.com/ysknsid25/ysknsid25/master/profile-summary-card-output/github/2-most-commit-language.svg" />
-  </p>
-  <p>
-    <img src="https://raw.githubusercontent.com/ysknsid25/ysknsid25/master/profile-summary-card-output/github/3-stats.svg" />
-    <img src="https://raw.githubusercontent.com/ysknsid25/ysknsid25/master/profile-summary-card-output/github/4-productive-time.svg" />
-  </p>
 </div>
 
 # 👀 Particularly interested in
