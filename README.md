@@ -11,11 +11,6 @@
     <a href="https://share.travy.jp/user/25201"><img src="https://img.shields.io/badge/Travy-1b8fb2" alt="travy" /></a>
     <a href="https://atcoder.jp/users/ysknsid25?contestType=algo"><img src="https://badgen.org/img/atcoder/ysknsid25/rating/algorithm?style=plastic&label=AtCoder" alt="Rating" /></a>   
   </p>
-  <p>
-    <a href="https://blog.hatena.ne.jp/ysknsid25/karanohako.hatenablog.jp/subscribe?from_url=https%3A%2F%2Fblog.inorinrinrin.com%2Fabout&utm_source=hatena-follow-button-box&utm_medium=button&utm_campaign=subscribe_blog"><img src="https://img.shields.io/badge/Blog Subscriber-100-blue" alt="blog" /></a>
-    <a href="https://blog.hatena.ne.jp/ysknsid25/karanohako.hatenablog.jp/subscribe?from_url=https%3A%2F%2Fblog.inorinrinrin.com%2Fabout&utm_source=hatena-follow-button-box&utm_medium=button&utm_campaign=subscribe_blog"><img src="https://img.shields.io/badge/be subscriber-blue" alt="blog" /></a>
-  </p>
-
 </div>
 <div align="center">
   <h3>📈 Stats</h3>
@@ -30,6 +25,17 @@
     <img height="180px" src="https://github-readme-stats.vercel.app/api?username=ysknsid25&show_icons=true&theme=transparent" />
   </p>
 </div>
+
+# 🖋 Blogs
+
+<p>
+  <a href="https://blog.hatena.ne.jp/ysknsid25/karanohako.hatenablog.jp/subscribe?from_url=https%3A%2F%2Fblog.inorinrinrin.com%2Fabout&utm_source=hatena-follow-button-box&utm_medium=button&utm_campaign=subscribe_blog"><img src="https://img.shields.io/badge/Blog Subscriber-100-blue" alt="blog" /></a>
+  <a href="https://blog.hatena.ne.jp/ysknsid25/karanohako.hatenablog.jp/subscribe?from_url=https%3A%2F%2Fblog.inorinrinrin.com%2Fabout&utm_source=hatena-follow-button-box&utm_medium=button&utm_campaign=subscribe_blog"><img src="https://img.shields.io/badge/be subscriber-blue" alt="blog" /></a>
+</p>
+
+- [Tech Blog](https://blog.inorinrinrin.com/)
+- [Diary](https://diary.inorinrinrin.com/)
+- [Treasure Box](https://treasurebox.inorinrinrin.com)
 
 # 👀 Particularly interested in
 
