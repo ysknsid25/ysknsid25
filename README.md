@@ -33,9 +33,9 @@
   <a href="https://blog.hatena.ne.jp/ysknsid25/karanohako.hatenablog.jp/subscribe?from_url=https%3A%2F%2Fblog.inorinrinrin.com%2Fabout&utm_source=hatena-follow-button-box&utm_medium=button&utm_campaign=subscribe_blog"><img src="https://img.shields.io/badge/be subscriber-blue" alt="blog" /></a>
 </p>
 
-- [Tech Blog](https://blog.inorinrinrin.com/)
 - [Diary](https://diary.inorinrinrin.com/)
 - [Treasure Box](https://treasurebox.inorinrinrin.com)
+- [Tech Blog](https://blog.inorinrinrin.com/)
 
 # 👀 Particularly interested in
 
