@@ -39,7 +39,7 @@
 
 # 👀 Particularly interested in
 
-<img src="https://skillicons.dev/icons?i=gcp,firebase,vercel,ts,js,go,kotlin&theme=light" />
+<img src="https://skillicons.dev/icons?i=gcp,firebase,vercel,ts,js,go,kotlin,php,rust&theme=light" />
 
 # 🗒 More Details
 
