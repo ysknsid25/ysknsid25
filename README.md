@@ -1,6 +1,6 @@
 # Hi, I'm Kanon 👋
 
-You are the <img src="https://komarev.com/ghpvc/?username=ysknsid25" /> person to see this page. I'm interested in
+You are the <img src="https://komarev.com/ghpvc/?username=ysknsid25" /> person. I'm interested in
 
 <img src="https://skillicons.dev/icons?i=gcp,firebase,vercel,ts,js,go,kotlin,php,rust&theme=light" />
 
