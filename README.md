@@ -6,6 +6,8 @@ You are the <img src="https://komarev.com/ghpvc/?username=ysknsid25" /> person. 
 
 <img src="https://skillicons.dev/icons?i=gcp,firebase,vercel,nodejs,bun,deno&theme=light" />
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ysknsid25&show_icons=true&locale=en&layout=compact" alt="ysknsid25" />
+
 > [!IMPORTANT]
 > - [About Me](https://gist.github.com/ysknsid25/fc1b194fdcc76cdba4eb2cc19762f515)
 > - I like contributing to OSS. Here are [OSS Contribute History](https://gist.github.com/ysknsid25/636c808893a8cfe3433676b2e842db86).
