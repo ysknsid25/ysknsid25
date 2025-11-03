@@ -6,7 +6,7 @@ You are the <img src="https://komarev.com/ghpvc/?username=ysknsid25" /> person. 
 
 <img src="https://skillicons.dev/icons?i=gcp,firebase,vercel,nodejs,bun,deno&theme=light" />
 
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ysknsid25&show_icons=true&locale=en&layout=compact" alt="ysknsid25" /> -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ysknsid25&show_icons=true&locale=en&layout=compact" alt="ysknsid25" />
 
 > [!IMPORTANT]
 > - [About Me](https://gist.github.com/ysknsid25/fc1b194fdcc76cdba4eb2cc19762f515)
@@ -23,4 +23,3 @@ You are the <img src="https://komarev.com/ghpvc/?username=ysknsid25" /> person. 
 
 > [!NOTE]
 > You can contact me from [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSeH2yz8BRmSSYWsz_AwRfYbDZv3av4Spg__T60Wy_7dVJik0w/viewform)
-
