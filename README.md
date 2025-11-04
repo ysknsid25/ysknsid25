@@ -2,7 +2,7 @@
 
 You are the <img src="https://komarev.com/ghpvc/?username=ysknsid25" /> person. I'm interested in
 
-<img src="https://skillicons.dev/icons?i=gcp,firebase,vercel,nodejs,bun,deno,ts,js,go,rust,python,kotlin&theme=light" />
+<img src="https://skillicons.dev/icons?i=gcp,firebase,vercel,cloudflare,deno,ts,js,go,rust,python,kotlin&theme=light" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ysknsid25&show_icons=true&locale=en&layout=compact" alt="ysknsid25" />
 
