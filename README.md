@@ -2,7 +2,7 @@
 
 You are the <img src="https://komarev.com/ghpvc/?username=ysknsid25" /> person. I'm interested in
 
-<img src="https://skillicons.dev/icons?i=ts,js,go,rust,kotlin,php&theme=light" />
+<img src="https://skillicons.dev/icons?i=ts,js,go,rust,kotlin&theme=light" />
 
 <img src="https://skillicons.dev/icons?i=gcp,firebase,vercel,nodejs,bun,deno&theme=light" />
 
