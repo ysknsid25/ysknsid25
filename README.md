@@ -13,7 +13,6 @@ You are the <img src="https://komarev.com/ghpvc/?username=ysknsid25" /> person. 
 > - I also write [tech blogs](https://blog.inorinrinrin.com/) from time to time.
 
 > [!TIP]
-> - I write a [Diary](https://diary.inorinrinrin.com/) every day.
 > - I keep my favorite things in a [Treasure Box](https://treasurebox.inorinrinrin.com).
 > - I love traveling and document my trips on [Travy](https://share.travy.jp/user/25201).
 > - I was working on [AtCoder](https://atcoder.jp/users/ysknsid25).
