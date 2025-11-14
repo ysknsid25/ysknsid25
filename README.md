@@ -2,7 +2,7 @@
 
 You are the <img src="https://komarev.com/ghpvc/?username=ysknsid25" /> person. 
 
-My MBTI type is [INFJ-T(提唱者)](https://www.16personalities.com/ja/%E7%B5%90%E6%9E%9C/infj-t/m/bpo7n6hx8). I'm interested in
+My MBTI type is [INTJ-A(建築家)](https://www.16personalities.com/ja/%E7%B5%90%E6%9E%9C/intj-a/m/neuyhm2gy) or [INFJ-T(提唱者)](https://www.16personalities.com/ja/%E7%B5%90%E6%9E%9C/infj-t/m/bpo7n6hx8). I'm interested in
 
 <img src="https://skillicons.dev/icons?i=gcp,firebase,bun,deno,ts,js,go,rust,python,php,kotlin&theme=light" />
 
