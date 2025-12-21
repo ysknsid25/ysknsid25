@@ -9,7 +9,7 @@ My MBTI type is [INFJ-T(提唱者)](https://www.16personalities.com/ja/%E7%B5%90
 > [!IMPORTANT]
 > - [About Me](https://gist.github.com/ysknsid25/fc1b194fdcc76cdba4eb2cc19762f515)
 > - I like contributing to OSS. [My OSS Activities](https://pr.ka-non.workers.dev/) are here.
-> - I often [speak at conferences](https://gist.github.com/ysknsid25/69393a8630c62cf2f12da30bdd926f4f).
+> - I often [speak at conferences](https://conf-d6dce.web.app/).
 > - I also write [tech blogs](https://blog.inorinrinrin.com/) from time to time.
 
 > [!TIP]
