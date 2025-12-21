@@ -17,7 +17,7 @@ My MBTI type is [INFJ-T(提唱者)](https://www.16personalities.com/ja/%E7%B5%90
 > - I keep my favorite things in a [Treasure Box](https://treasurebox.inorinrinrin.com).
 > - I love traveling and document my trips on [Travy](https://share.travy.jp/user/25201).
 > - I was working on [AtCoder](https://atcoder.jp/users/ysknsid25).
-> - I record delicious restaurants that I want to visit again and again on [Instagram](https://www.instagram.com/ysknsid25/).
+> - I record delicious restaurants that I want to visit again and again on [食べログ](https://tabelog.com/rvwr/019537020/).
 
 > [!NOTE]
 > You can contact me from [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSeH2yz8BRmSSYWsz_AwRfYbDZv3av4Spg__T60Wy_7dVJik0w/viewform)
