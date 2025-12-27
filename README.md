@@ -6,6 +6,8 @@ My MBTI type is [INFJ-T(提唱者)](https://www.16personalities.com/ja/%E7%B5%90
 
 <img src="https://skillicons.dev/icons?i=gcp,firebase,bun,deno,ts,js,kotlin&theme=light" />
 
+I'm studying English by Duolingo. [Please be friend](https://www.duolingo.com/profile/Kanon529085?via=share_profile_qr)
+
 > [!IMPORTANT]
 > - [About Me](https://gist.github.com/ysknsid25/fc1b194fdcc76cdba4eb2cc19762f515)
 > - I like contributing to OSS. [My OSS Activities](https://pr.ka-non.workers.dev/) are here.
