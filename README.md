@@ -1,12 +1,18 @@
 # Hi, I'm Kanon 👋
 
-You are the <img src="https://komarev.com/ghpvc/?username=ysknsid25" /> person. 
+You are the <img src="https://komarev.com/ghpvc/?username=ysknsid25" /> person.  
 
-My MBTI type is [INFJ-T(提唱者)](https://www.16personalities.com/ja/%E7%B5%90%E6%9E%9C/infj-t/m/bpo7n6hx8), [SEI](https://wevox.io/personalities/F858248A4E8A9AF0E020C6129CE46EC5/sharing_results). I'm interested in
+I love
 
-<img src="https://skillicons.dev/icons?i=gcp,firebase,bun,deno,ts,js,kotlin&theme=light" />
+<img src="https://skillicons.dev/icons?i=gcp,firebase,bun,deno,npm,js,ts&theme=light" />
 
-I'm studying English by Duolingo. [Please be friend](https://www.duolingo.com/profile/Kanon529085?via=share_profile_qr)
+I can write
+
+<img src="https://skillicons.dev/icons?i=js,ts,kotlin,java,php,go&theme=light" />
+
+I want to learn more
+
+<img src="https://skillicons.dev/icons?i=rust,dart,flutter,cloudflare,vercel&theme=light" />
 
 > [!IMPORTANT]
 > - [About Me](https://gist.github.com/ysknsid25/fc1b194fdcc76cdba4eb2cc19762f515)
@@ -16,6 +22,7 @@ I'm studying English by Duolingo. [Please be friend](https://www.duolingo.com/pr
 
 > [!TIP]
 > - I sometimes write [essay](https://sizu.me/ysknsid25)
+> - I'm studying English by Duolingo. [Please be friend](https://www.duolingo.com/profile/Kanon529085?via=share_profile_qr)
 > - I keep my favorite things in a [Treasure Box](https://treasurebox.inorinrinrin.com).
 > - I love traveling and document my trips on [Travel Record](https://travel-record-254cf.web.app/).
 > - I was working on [AtCoder](https://atcoder.jp/users/ysknsid25).
