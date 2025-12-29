@@ -2,18 +2,6 @@
 
 You are the <img src="https://komarev.com/ghpvc/?username=ysknsid25" /> person.  
 
-I love
-
-<img src="https://skillicons.dev/icons?i=gcp,firebase,bun,deno,npm,js,ts&theme=light" />
-
-I can write
-
-<img src="https://skillicons.dev/icons?i=js,ts,kotlin,java,php,go&theme=light" />
-
-I want to learn more
-
-<img src="https://skillicons.dev/icons?i=rust,dart,flutter,cloudflare,vercel&theme=light" />
-
 > [!IMPORTANT]
 > - [About Me](https://gist.github.com/ysknsid25/fc1b194fdcc76cdba4eb2cc19762f515)
 > - I like contributing to OSS. [My OSS Activities](https://pr.ka-non.workers.dev/) are here.
@@ -30,3 +18,15 @@ I want to learn more
 
 > [!NOTE]
 > You can contact me from [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSeH2yz8BRmSSYWsz_AwRfYbDZv3av4Spg__T60Wy_7dVJik0w/viewform)
+
+## I love
+
+<img src="https://skillicons.dev/icons?i=gcp,firebase,nodejs,bun,deno,npm,js,ts&theme=light" />
+
+## I can write
+
+<img src="https://skillicons.dev/icons?i=js,ts,kotlin,java,php,go&theme=light" />
+
+## I want to learn more
+
+<img src="https://skillicons.dev/icons?i=rust,dart,flutter,cloudflare,vercel&theme=light" />
