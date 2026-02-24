@@ -32,8 +32,8 @@ You are the <img src="https://komarev.com/ghpvc/?username=ysknsid25" /> person.
 
 ## I can write
 
-<img src="https://skillicons.dev/icons?i=js,ts,kotlin,java,python,php,go&theme=light" />
+<img src="https://skillicons.dev/icons?i=js,ts,kotlin,java,python,php&theme=light" />
 
 ## I want to learn more
 
-<img src="https://skillicons.dev/icons?i=ruby,rust,dart,flutter,cloudflare,vercel&theme=light" />
+<img src="https://skillicons.dev/icons?i=rust,cloudflare,vercel&theme=light" />
