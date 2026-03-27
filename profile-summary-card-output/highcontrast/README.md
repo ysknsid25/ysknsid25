@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/ysknsid25/ysknsid25/master/profile-summary-card-output/highcontrast/4-productive-time.svg)
-```
-
-    
