@@ -32,8 +32,8 @@ You are the <img src="https://komarev.com/ghpvc/?username=ysknsid25" /> person.
 
 ## I can write
 
-<img src="https://skillicons.dev/icons?i=js,ts,kotlin,java,python,php&theme=light" />
+<img src="https://skillicons.dev/icons?i=js,ts,rust,kotlin,java,python,php&theme=light" />
 
-## I want to learn more
+## I have
 
-<img src="https://skillicons.dev/icons?i=rust,cloudflare,vercel&theme=light" />
+<img width="96" height="96" alt="image" src="https://github.com/user-attachments/assets/ef6cc2c7-6308-486e-a03e-f213ba1410e8" />
