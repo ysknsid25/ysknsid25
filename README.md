@@ -7,7 +7,7 @@ You are the <img src="https://komarev.com/ghpvc/?username=ysknsid25" /> person.
 > - I like contributing to OSS. [My OSS Activities](https://pr.ka-non.workers.dev/) are here.
 > - My conference slides are [here](https://slides.inorinrinrin.com/).
 > - I often [speak at conferences](https://conference.inorinrinrin.com/).
-> - I also write tech blogs([ja](https://blog.inorinrinrin.com/) / [en](https://en.blog.inorinrinrin.com/)) from time to time.
+> - I also write tech blogs about JS/TS/AI([ja](https://blog.inorinrinrin.com/) / [en](https://en.blog.inorinrinrin.com/)) and [Kotlin](https://kotlin.inorinrinrin.com/) from time to time.
 
 > [!TIP]
 > - I sometimes write [essay](https://sizu.me/ysknsid25)
