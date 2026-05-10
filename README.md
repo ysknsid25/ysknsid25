@@ -28,7 +28,7 @@ You are the <img src="https://komarev.com/ghpvc/?username=ysknsid25" /> person.
 
 ## I love
 
-<img src="https://skillicons.dev/icons?i=gcp,firebase,nodejs,bun,deno,npm,js,ts&theme=light" />
+<img src="https://skillicons.dev/icons?i=gcp,firebase,github,nodejs,bun,deno,npm,js,ts,nextjs&theme=light" />
 
 ## I can write
 
