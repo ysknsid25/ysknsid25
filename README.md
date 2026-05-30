@@ -18,17 +18,3 @@ You are the <img src="https://komarev.com/ghpvc/?username=ysknsid25" /> person.
 
 > [!NOTE]
 > You can contact me from [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSeH2yz8BRmSSYWsz_AwRfYbDZv3av4Spg__T60Wy_7dVJik0w/viewform)
-
-<!--
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ysknsid25&langs_count=9" />
-</a>
--->
-
-## I love
-
-<img src="https://skillicons.dev/icons?i=gcp,firebase,github,nodejs,bun,deno,npm,js,ts,nextjs&theme=light" />
-
-## I can write
-
-<img src="https://skillicons.dev/icons?i=js,ts,rust,kotlin,java,python,php&theme=light" />
