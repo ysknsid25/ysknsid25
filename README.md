@@ -7,13 +7,5 @@ You are the <img src="https://komarev.com/ghpvc/?username=ysknsid25" /> person.
 > - I often [speak at conferences](https://conference.inorinrinrin.com/).
 > - I also write tech blogs about JS/TS/AI([ja](https://blog.inorinrinrin.com/) / [en](https://en.blog.inorinrinrin.com/)) and [Kotlin](https://kotlin.inorinrinrin.com/) from time to time.
 
-> [!TIP]
-> - I sometimes write [essay](https://sizu.me/ysknsid25)
-> - I'm studying English by Duolingo. [Please be friend](https://www.duolingo.com/profile/Kanon529085?via=share_profile_qr)
-> - I keep my favorite things in a [Treasure Box](https://treasurebox.inorinrinrin.com).
-> - I love traveling and document my trips on [Travel Record](https://travel-record-254cf.web.app/).
-> - I was working on [AtCoder](https://atcoder.jp/users/ysknsid25).
-> - I record delicious restaurants that I want to visit again and again on [食べログ](https://tabelog.com/rvwr/019537020/).
-
 > [!NOTE]
 > You can contact me from [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSeH2yz8BRmSSYWsz_AwRfYbDZv3av4Spg__T60Wy_7dVJik0w/viewform)
