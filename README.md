@@ -10,3 +10,5 @@ You are the <img src="https://komarev.com/ghpvc/?username=ysknsid25" /> person. 
 - [treasurebox](https://treasurebox.inorinrinrin.com)
 
 👉 `inorin` means [Inori Minase](https://www.inoriminase.com/)
+
+You can contact me from [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSeH2yz8BRmSSYWsz_AwRfYbDZv3av4Spg__T60Wy_7dVJik0w/viewform)
