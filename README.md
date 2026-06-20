@@ -12,3 +12,12 @@ You are the <img src="https://komarev.com/ghpvc/?username=ysknsid25" /> person. 
 👉 `inorin` means [Inori Minase](https://www.inoriminase.com/)
 
 📩 You can contact me from [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSeH2yz8BRmSSYWsz_AwRfYbDZv3av4Spg__T60Wy_7dVJik0w/viewform)
+
+## 🏆 Awards
+
+- [はてなブログ年間アワード2025 はてなブックマーク数 準グランプリ](https://blog.hatenablog.com/award/2025)
+
+## 🎙 Interviews
+
+- [テストカバレッジが100％でもそれが意味のあるテストかは断言できない　Mutation Testでテストコード自体の検証をしよう](https://logmi.jp/main/technology/330791)
+- [何をテストするか・どのような状況とシナリオか・期待される結果は何か　明日からでもすぐにできるアンチパターン回避メソッド](https://logmi.jp/main/technology/330790)
