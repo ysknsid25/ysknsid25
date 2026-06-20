@@ -1,8 +1,6 @@
 # Hi, I'm Kanon 👋
 
-You are the <img src="https://komarev.com/ghpvc/?username=ysknsid25" /> person.
-
-You can fide me by searching id `ysknsid25` or at `inorinrinrin.com`. For example...
+You are the <img src="https://komarev.com/ghpvc/?username=ysknsid25" /> person. You can fide me by searching id `ysknsid25` or at `inorinrinrin.com`. For example...
 
 - [blog](https://blog.inorinrinrin.com)
 - [en.blog](https://en.blog.inorinrinrin.com)
