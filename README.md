@@ -13,7 +13,7 @@ You are the <img src="https://komarev.com/ghpvc/?username=ysknsid25" /> person. 
 
 📩 You can contact me from [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSeH2yz8BRmSSYWsz_AwRfYbDZv3av4Spg__T60Wy_7dVJik0w/viewform)
 
-I'm organizer of [GitHub User Group Kwansai](https://gug-kwansai.connpass.com/)
+🎙 I'm organizer of [GitHub User Group Kwansai](https://gug-kwansai.connpass.com/)
 
 ## 🏆 Awards
 
