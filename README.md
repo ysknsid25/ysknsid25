@@ -4,6 +4,8 @@ You are the <img src="https://komarev.com/ghpvc/?username=ysknsid25" /> person. 
 
 - [blog](https://blog.inorinrinrin.com)
 - [en.blog](https://en.blog.inorinrinrin.com)
+- [essay](https://essay.inorinrinrin.com)
+- [en.essay](https://en.essay.inorinrinrin.com)
 - [slide](https://slide.inorinrinrin.com/)
 - [oss](https://oss.inorinrinrin.com)
 - [travel](https://travel.inorinrinrin.com)
