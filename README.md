@@ -10,6 +10,7 @@ You are the <img src="https://komarev.com/ghpvc/?username=ysknsid25" /> person. 
 - [oss](https://oss.inorinrinrin.com)
 - [travel](https://travel.inorinrinrin.com)
 - [treasurebox](https://treasurebox.inorinrinrin.com)
+- [conference](https://conference.inorinrinrin.com/)
 
 👉 `inorin` means [Inori Minase](https://www.inoriminase.com/)
 
