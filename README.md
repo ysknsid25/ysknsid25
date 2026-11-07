@@ -11,7 +11,7 @@
 
 # Hi, I'm Kanon 👋
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,npm,vite,nextjs,react,electron,nodejs,bun,vitest,gcp,firebase,cloudflare,vercel&theme=light&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,npm,vite,nextjs,react,nodejs,bun,vitest,gcp,firebase,cloudflare&theme=light&perline=7)](https://skillicons.dev)
 
 You are the <img src="https://komarev.com/ghpvc/?username=ysknsid25" /> person. You can fide me by searching id `ysknsid25` or at `inorinrinrin.com`. For example...
 
