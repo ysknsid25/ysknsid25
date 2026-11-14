@@ -1,19 +1,10 @@
-<!-- Copy-paste in your Readme.md file -->
-
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=44870505" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=44870505&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @ysknsid25" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=44870505&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
-</a>
-
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
-
 # Hi, I'm Kanon 👋
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,npm,vite,nextjs,react,nodejs,bun,vitest,gcp,firebase,cloudflare&theme=light&perline=7)](https://skillicons.dev)
+You are the <img src="https://komarev.com/ghpvc/?username=ysknsid25" /> person. My mainly skills are 
 
-You are the <img src="https://komarev.com/ghpvc/?username=ysknsid25" /> person. You can fide me by searching id `ysknsid25` or at `inorinrinrin.com`. For example...
+[![My Skills](https://it-icons.ka-non.workers.dev/icons?i=html,css,javascript,typescript,npm,jsr,nodejs,bun,vite,react,nextjs,tailwindcss,storybook,hono,h3,nitro,valibot,formisch,zod,standardschema,swr,sequelize,prisma,eslint,msw,vitest,playwright,stryker,cypress,turbo,tsdown,gcp,firebase,cloudflare,github,wiz,datadog,vscode,claudecode,gemini,antigravity,devin,coderabbit&theme=light&perline=10)](https://skillicons.dev)
+
+You can fide me by searching id `ysknsid25` or at `inorinrinrin.com`. For example...
 
 - [blog](https://blog.inorinrinrin.com)
 - [en.blog](https://en.blog.inorinrinrin.com)
@@ -30,3 +21,14 @@ You are the <img src="https://komarev.com/ghpvc/?username=ysknsid25" /> person. 
 📩 You can contact me from [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSeH2yz8BRmSSYWsz_AwRfYbDZv3av4Spg__T60Wy_7dVJik0w/viewform)
 
 🎙 I'm organizer of [GitHub User Group](https://gug-kwansai.connpass.com/)
+
+<!-- Copy-paste in your Readme.md file -->
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=44870505" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=44870505&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @ysknsid25" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=44870505&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
