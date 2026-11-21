@@ -2,7 +2,7 @@
 
 You are the <img src="https://komarev.com/ghpvc/?username=ysknsid25" /> person. My mainly skills are 
 
-[![My Skills](https://it-icons.ka-non.workers.dev/icons?i=html,css,javascript,typescript,npm,jsr,nodejs,bun,vite,react,nextjs,tailwindcss,storybook,hono,h3,nitro,valibot,formisch,zod,standardschema,swr,sequelize,prisma,eslint,msw,vitest,playwright,stryker,cypress,turbo,tsdown,gcp,firebase,cloudflare,github,wiz,datadog,vscode,claudecode,gemini,antigravity,devin,coderabbit&theme=light&perline=10)](https://github.com/ouka-lab/it-icons)
+[![My Skills](https://it-icons.ka-non.workers.dev/icons?i=html,css,javascript,typescript,npm,jsr,nodejs,bun,vite,react,nextjs,tailwindcss,storybook,hono,h3,nitro,valibot,formisch,zod,standardschema,swr,sequelize,prisma,eslint,biome,msw,vitest,playwright,stryker,cypress,k6,turbo,tsdown,gcp,firebase,cloudflare,github,wiz,datadog,vscode,claudecode,copilot,gemini,antigravity,devin,coderabbit,dependabot,socket&theme=light&perline=10)](https://github.com/ouka-lab/it-icons)
 
 You can fide me by searching id `ysknsid25` or at `inorinrinrin.com`. For example...
 
